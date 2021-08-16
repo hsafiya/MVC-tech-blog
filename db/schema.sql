@@ -1,5 +1,5 @@
   
-DROP DATABASE IF EXISTS MVC-tech-blog;
+DROP DATABASE IF EXISTS mvc_tech_blog;
 
-CREATE DATABASE MVC-tech-blog;
-USE MVC-tech-blog;
+CREATE DATABASE mvc_tech_blog;
+USE mvc_tech_blog;
